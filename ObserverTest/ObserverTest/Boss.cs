@@ -39,7 +39,7 @@ namespace ObserverTest
         {
             foreach (Observer o in observers)
                 o.Update();
-            //throw new NotImplementedException();
+            
         }
     }
 }
