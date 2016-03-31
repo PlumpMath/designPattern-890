@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractFactory
+namespace Chanjet.T.PU.ReflectorCai
 {
-    interface IUser
+    public abstract class Shoes
     {
-        void Insert(User user);
-        IUser GetUser(int id);
+
     }
 }
